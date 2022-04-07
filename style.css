@@ -665,12 +665,3 @@ header .search-bar-container label:hover {
   }
 }
 
-@media screen and (max-width: 450) {
-  html {
-    font-size: 50%;
-  }
-
-  .heading span {
-    font-size: 2.5rem;
-  }
-}
